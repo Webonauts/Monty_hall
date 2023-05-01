@@ -1,2 +1,2 @@
-# Monty_hall
+# monty_hall
 assignment
