@@ -37,11 +37,11 @@
         1. changedProbability
             1. success
             2. failed
-            3. count: 전체 한 횟수
+            3. total: 전체 한 횟수
         2. stayProbability
             1. success
             2. failed
-            3. count: 전체 한 횟수
+            3. total: 전체 한 횟수
 - 컨벤션
   - javascript: camel case
   - git: angularJS
