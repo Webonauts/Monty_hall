@@ -1,2 +1,2 @@
 # monty_hall
-assignment
+몬티홀 문제 
